@@ -48,6 +48,13 @@ To deploy the model:
 2. Preprocess input OCT images as required.
 3. Make predictions using the loaded model.
 
+<h3>Dataset and Trained Model</h3>
+
+If you want to try the code, you can download the dataset and the trained model from the following Google Drive links:
+
+- [Download Dataset](https://drive.google.com/drive/folders/1YCsY895YKWygrCrIoiUqqn55Nx4U4qic?usp=drive_link)
+- [Download Trained Model](https://drive.google.com/file/d/1UqQrmffVXw2AU5Td1qpvWuXkumGTJXMR/view?usp=drive_link)
+
 <h3>Contributing</h3>
 
 Contributions to this project are welcome. If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
