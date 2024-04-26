@@ -58,7 +58,5 @@ If you want to try the code, you can download the dataset and the trained model 
 <h3>Contributing</h3>
 
 Contributions to this project are welcome. If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
-\```bash
-pip install -r requirements.txt
-\```
+
 
